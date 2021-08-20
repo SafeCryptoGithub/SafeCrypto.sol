@@ -1,0 +1,2 @@
+# SafeCrypto.sol
+Solidity
